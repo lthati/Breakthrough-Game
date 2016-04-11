@@ -1,4 +1,4 @@
-# Breakthrough-Game
+# Breakthrough-Game implemented in Java
 Breakthrough is a two person game played on a 8X8 chessboard, designed by Dan Troyka. 
 
 Each player has 16 pieces, initially positioned on the two rows nearest to the player.
